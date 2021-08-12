@@ -1,0 +1,75 @@
+#core
+#  pip install django==2.1.7
+Django==2.1.7
+# pip install django-configurations
+django-configurations==2.1
+# pip install django-model-utils
+django-model-utils==3.1.2
+
+# pip install djangorestframework
+djangorestframework==3.9.2
+# pip install Markdown
+# markdown==3.0.1
+# pip install coreapi
+coreapi==2.3.3
+# pip install django-filter
+django-filter==2.1.0
+# pip install django-guardian
+django-guardian==1.5.0
+
+#pip install requests
+requests==2.21.0
+#time zone pip install pytz
+pytz==2018.9
+
+# pip install python-dotenv
+python-dotenv==0.10.1
+
+#pip install grpcio
+grpcio-tools==1.18.0
+#pip install grpcio-tools
+grpcio-tools==1.18.0
+#pip install sentry-sdk
+# sentry-sdk==0.7.2
+#pip install pymongo
+# pymongo==3.7.2
+# pip install redis
+# redis==3.1.0
+#pip install cx-Oracle
+# cx_Oracle==6.3
+# mysqlclient==1.4.2
+
+#debug tools
+# pip install django-debug-toolbar
+django-debug-toolbar==1.11
+
+# pip install django-unixtimestampfield
+django-unixtimestampfield==0.3.9
+
+# pip install xlrd
+# xlrd==1.2.0
+
+# pip install celery
+# celery==4.2.1
+# PYTHON LINTER
+# PEP8 code linting, which we run on all commits.
+# pip install flake8
+flake8==3.5.0
+pep8==1.5.7
+#format code conventions
+# pip install black
+# black test.py
+# black
+# pip install MySQL-python
+#pip install django-allauth
+# pip install djangorestframework-jwt
+django-allauth==0.39.1
+djangorestframework-jwt==1.11.0
+pyjwt==1.5.3              # via djangorestframework-jwt
+
+# unittest
+# pip install pytest-benchmark
+
+
+# Security
+# pip install bandit

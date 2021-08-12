@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/home/tran.thanh.tungc/.env/cash-demo/bin/python3.6",
+    "python.linting.pylintEnabled": true,
+    "[python]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "editor.formatOnSave": true,
+    },
+}

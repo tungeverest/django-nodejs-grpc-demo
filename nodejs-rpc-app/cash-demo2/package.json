@@ -1,0 +1,15 @@
+{
+  "name": "cash-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "tungtt",
+  "license": "MIT",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.4.0",
+    "grpc": "^1.19.0"
+  }
+}
